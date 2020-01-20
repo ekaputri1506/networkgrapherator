@@ -7,5 +7,5 @@ Please download/fork all my files in your computer then open it by *Google Chrom
 
 I created and analyzed it using R Languange and HTML.
 
-E-mail: renniekaputri15@gmail.com </br>
-WA/Mobile: +62-81905146181
+E-mail: renniekaputri1982@gmail.com </br>
+
